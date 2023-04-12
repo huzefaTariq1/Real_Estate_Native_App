@@ -1,0 +1,46 @@
+{
+  "expo": {
+    "name": "Twidle",
+    "slug": "Twidle",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./app/assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./app/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1645F5"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.testrenex.twidle",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./app/assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.testrenex.twidle",
+      "versionCode": 1,
+      "androidStatusBar": {
+        "barStyle": "dark-content",
+        "backgroundColor": "#FF9A03"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6e76e6e3-c783-4d15-9700-6da7501a6e4b"
+      }
+    }
+  }
+}

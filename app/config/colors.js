@@ -1,0 +1,18 @@
+export default {
+  primaryBlue: "#1645f5",
+  white: "#fff",
+  medium: "#6e6969",
+  borderColor: "#D2D2D2",
+  lightBlue: "98CFF5",
+  backgroundTheme: "#fbfbfb",
+  flterbtnBackground: "#eaeffb",
+  lightBlueShadow: "#f2f5fe",
+  unselctedbtn: "#E9E9EC",
+  imagePickerOutLine: "#707070",
+  lightGrey: "#edece8",
+  greyText: "#8F92A1",
+  lightGreyBackground: "#f8f4f4",
+  orangeYellow: "#FF9A03",
+  greenApp: "#01E08F",
+  darkestGrey: "#707070",
+};
